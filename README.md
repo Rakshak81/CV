@@ -1,77 +1,96 @@
-## Your Name
+## Rakshak Shetty
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am highly analytical and creative software developer with a passion for learning. I have spent the last year immersed in the process of learning to code, how to write clean code, and how to do so successfully in a team. I am a good listener and I am constantly working to improve my skills and experience.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
+| [**Final project - Get-Me-Out-Of_Here**](https://github.com/mmguinness/escape-room) | A web app to play a game based on Escape room| React, JavaScript, HTML, CSS |
+| [**Acebook**](https://github.com/nelsonclaire/acebook-jest-in-time) | A clone of Facebook | MongoDB, Express, Node.js, CSS, & Heroku|
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**TSB** (Janaury 2021 to December 2021)  
+Quality Control
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Responsible for monitoring and maintaining quality and compliance targets. 
+- Ensuring Fair Outcome to our customers.
+- Quality Checking Cases
+- Preparation of training plans and materials liaising with the relevant     stakeholders
+- Assisting in the training of new staff
+- Awareness of regulatory requirement and customer service expectations
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Clydesdale Bank** (Janaury 2017 to December 2020)  
+Outcome Testing
 
-- Any experience relevent to software development
+- End to End testing and complete case reviews to ensure correct policies and procedures are adhered to.
+- Ensuring that the Process Adhere to FCA Guidelines.
+- Investigating causes of process failures and recommending solutions.
+- Process Change and Improvements.
+- Create and Maintain strong communication channels to ensure  changes are communicated effectively.
 
-## Skills
+**Buy As You View** (September 2016 to December 2016)  
+Quality Assurance
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+- Ensuring that all QA Tests are carried out on time and in full
+- Ensuring all calls comply with legislation and quality assurance codes
+- Awareness of regulatory requirement.
+- Recommendations for Process changes and Improvements.
+- Keeping quality documentation up to date
 
--STAR
--What was the situation/task? (ST)
+**Blackhorse Finance** (Febraury 2015 to September 2016)  
+SME and Quality Assurance
 
--How was the skill used?
+- Supporting and guiding the team members in their daily duties which include maintaining quality and production
+- Ensuring cases comply with legislation and quality assurance codes
+- Using initiative in maintaining quality for the team
+- Identify training needs and recommendations to improve customer experience
+- Recognised as a source of reliable information, techniques and skills
 
--What did you do? (action)
+**Barclaycard** (March 2014 to Febraury 2015)  
+Complaint Handling
 
--What was the result?
+- Dealing with customer complaints regarding Payment Protection Insurance.
+- Delivering excellent customer service, resolving customer complaints at first point of contact.
+- Working to targets which apply for both quality and quantity.
+- Identified and documented risks and communicated same to the project manager for management
+- Effectively championed the Risks and Issues log management for the project
+
+**Lloyds Banking Group** (June 2011 to Febraury 2014)  
+Collections, Recovery & Financial Sales
+
+- Responsible for inbound calls and assist customers by giving information they need to pay the accounts.
+- Keeping up to date with financial products and legislation
+- Conducting in-depth reviews of clients’ financial circumstances
+
+## Team worker
+
+During my time at Makers Academy, we often worked in teams of 4 to 6. Good communication was one of the key aspects of working together. I love giving and receiving feedback, helping both my team members and me to grow as better programmers. Another important aspect is time management, I like breaking the tasks into achievable pieces based on priorities and approaching them in the Agile way.
 
 
-#### This Skill
+#### Problem-Solver/Attention to Detail
 
-- Experience
-- Achievements
-- Evidence (STAR)
+My experience of working as a Quality Assurance Technician enabled me to gain a keen eye on finding/fixing bugs.I have got a passion for problem solving and I am avid puzzle solver and enjoy a challenge.
 
-#### Another Skill
+#### Self-Motivated
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Makers Academy is a 16 week intensive coding bootcamp which has a large focus on self-directed learning. This made me an ideal candidate as I enjoy getting stuck into learning new skills to a high level. From my first lines of code I knew this was something I wanted to pursue professionally. As such I began completing a number of online courses, workbooks and spending most of my free time studying code. This attitude has helped me to manage the various tasks and challenges of the course.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (January 2022 to April 2022)
 
-#### Your University / College (start_date to end_date)
+An intensive 16 week Software Development bootcamp where I learnt a wide range of techniques and languages required to become a software developer
+- Pair programming 
+- Ruby, SQL, MongoDB, JavaScript, SQL, HTML, CSS
+- Manual Testing, Jest, Cypres, Rspec
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### University of Northumbria at Newcastle (Janaury 2007 to Janaury 2008)
 
-#### Any other qualifications
+- Masters of Business Administration in Finance
 
-That in some arguable way make you a better software developer or well-rounded person
+#### NMAMIT, Visheveswaria Technological University (June 1999 t0 April 2004)
 
-## Hobbies
+- Bachelors in Engineering
 
-Any cool stuff that makes you a super part of a software development team
+
