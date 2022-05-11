@@ -63,18 +63,20 @@ Collections, Recovery & Financial Sales
 - Keeping up to date with financial products and legislation
 - Conducting in-depth reviews of clients’ financial circumstances
 
-## Team worker
+## Skills
+
+#### Team worker
 
 During my time at Makers Academy, we often worked in teams of 4 to 6. Good communication was one of the key aspects of working together. I love giving and receiving feedback, helping both my team members and me to grow as better programmers. Another important aspect is time management, I like breaking the tasks into achievable pieces based on priorities and approaching them in the Agile way.
 
 
 #### Problem-Solver/Attention to Detail
 
-My experience of working as a Quality Assurance Technician enabled me to gain a keen eye on finding/fixing bugs.I have got a passion for problem solving and I am avid puzzle solver and enjoy a challenge.
+My experience of working as a Outcome Tester enabled me to gain a keen eye on finding/fixing bugs.I have got a passion for problem solving and I am avid puzzle solver and enjoy a challenge.
 
 #### Self-Motivated
 
-Makers Academy is a 16 week intensive coding bootcamp which has a large focus on self-directed learning. This made me an ideal candidate as I enjoy getting stuck into learning new skills to a high level. From my first lines of code I knew this was something I wanted to pursue professionally. As such I began completing a number of online courses, workbooks and spending most of my free time studying code. This attitude has helped me to manage the various tasks and challenges of the course.
+Makers Academy is a 16 week intensive coding bootcamp which has a large focus on self-directed learning. This made me an ideal candidate as I enjoy getting stuck into learning new skills. I began completing a number of online courses, workbooks and spending most of my free time studying code. This attitude has helped me to manage the various tasks and challenges of the course.
 
 ## Education
 
