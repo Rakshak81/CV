@@ -6,7 +6,7 @@ I am highly analytical and creative software developer with a passion for learni
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Final project - Get-Me-Out-Of_Here**](https://github.com/mmguinness/escape-room) | A web app to play a game based on Escape room| React, JavaScript, HTML, CSS |
+| [**Get Me Out Of Here**](https://github.com/mmguinness/escape-room) | A web app to play a game based on Escape room| React, JavaScript, HTML, CSS |
 | [**Acebook**](https://github.com/nelsonclaire/acebook-jest-in-time) | A clone of Facebook | MongoDB, Express, Node.js, CSS, & Heroku|
 ## Work Experience
 
