@@ -9,6 +9,7 @@ I am highly analytical and creative software developer with a passion for learni
 | [**Get Me Out Of Here**](https://github.com/mmguinness/escape-room) | A web app to play a game based on Escape room| React, JavaScript, HTML, CSS |
 | [**Acebook**](https://github.com/nelsonclaire/acebook-jest-in-time) | A clone of Facebook | MongoDB, Express, Node.js, CSS, & Heroku|
 | [**Makersbnb**](https://github.com/Jaroslaw-Roman-Cudzich/Makersbnb) | A web application based off of the features of Airbnb. | Ruby, PostgreSQL, Sinatra, HTML: includes CSS and JavaScript|
+| [**Mern-Exercise-Tracker**](https://github.com/Rakshak81/Mern_Stack_Exercise_tracker) | Exercise Tracker using Mern-Stack | MongoDB, Express, React, NodeJS|
 ## Work Experience
 
 **TSB** (Janaury 2021 to December 2021)  
