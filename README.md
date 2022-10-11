@@ -1,6 +1,6 @@
 ## Rakshak Shetty
 
-I am highly analytical and creative software developer with a passion for learning. I have spent the last year immersed in the process of learning to code, how to write clean code, and how to do so successfully in a team. I am a good listener and I am constantly working to improve my skills and experience.
+I am a highly analytical software developer and a graduate of Makers Academy, a highly selective Software Development bootcamp. I have a background in Banking and having worked as an Outcome Tester, I have been able to develop and demonstrate my communication and attention to detail. I have a passion for problem solving and I am an avid puzzle solver, so what really excites me about a career in tech is the opportunity to use my problem solving skills and to work in an industry that constantly evolves and innovates.
 
 ## Projects
 
